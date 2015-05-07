@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent" >
 
-    <com.example.colorpicker.ColorPickView
+    <com.exlsunshine.colorpicker.ColorPickView
         android:id="@+id/color_picker_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -22,14 +22,5 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="37dp"
         android:text="color" />
-
-<!--     <com.example.colorpicker.CircleColorPickerView
-        android:id="@+id/circle_color_picker_view"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/txt_color"
-        android:layout_centerHorizontal="true"
-        android:gravity="center"
-        android:visibility="invisible"/> -->
 
 </RelativeLayout>
