@@ -1,4 +1,5 @@
-/bin
+/bin/*
+!/bin/*.jar
 /gen
 
 *.class
